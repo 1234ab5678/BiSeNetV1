@@ -1,0 +1,2 @@
+# BiSeNetV1
+基于Pytorch的BiSeNetV1实现，Context Path使用ResNet18，两个辅助分支用于辅助训练，评估时放弃辅助分支
